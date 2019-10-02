@@ -7,4 +7,4 @@
 
 [ritiksr25](https://github.com/ritiksr25)
 
-[Shreeyanshi Gupta] (https://github.com/shrynshigupta06)
+[Shreeyanshi Gupta](https://github.com/shrynshigupta06)
